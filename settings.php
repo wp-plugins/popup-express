@@ -46,6 +46,7 @@ class PopupExpress{
 			<h2><?php $this->settingName ?></h2>
 			
 			<h3>Settings</h3>
+			<p><a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a></p>
 			<p>Setup your popup form</p>	
 			<?php //$this->plugin_template_stylesheet(); 
 			?>			

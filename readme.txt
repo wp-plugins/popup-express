@@ -4,7 +4,7 @@ Donate link: http://www.thinklandingpages.com
 Tags: custom popup, fancy box, fancy popup, jquery popup, lightbox, lightbox popup, pop-up, popup, popup ads, popup advertising, popup block, popup box, popup jquery, popup message, automatic popup, unblockable, popup message, popup window, popups,aweber, constant contact, dashboard, email, full page popup, full screen pop, full screen popup, getresponse, icontact, mailchimp, onclick popup, optin, optin popup,
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Easily create a popup for your Wordpress site.
 
 Easily create a popup lightbox with and email form for your Wordpress site.  Your popup form will appear in front of your content to make an offer to your visitors to signup for your email list.  Popup forms are one of the best way to get more subscribers.
 
-
+<a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
 
 ###What you get when you use the Popup Express plugin
 
@@ -27,6 +27,9 @@ Easily create a popup lightbox with and email form for your Wordpress site.  You
 ###Quick Start Guide
 
 * [Popup Express quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/popup-express-plugin-quick-start-guide/)
+
+###Upgrade
+<a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
 
 == Installation ==
 
