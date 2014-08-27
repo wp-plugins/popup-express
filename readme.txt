@@ -16,7 +16,7 @@ Easily create a popup lightbox with an email form for your Wordpress site.  Your
 
 The popup content can be easily edited by making changes on a form.  There is a an editable field for each piece of content on the popup.  You don't have to do any coding to make the popup look good.
 
-The popup time can be controlled from your wordpress admin panel.  You can also turn the popup of anytime you like unchecking the box that says "enable popup".
+The popup time can be controlled from your wordpress admin panel.  You can also turn the popup off anytime you like by unchecking the box that says "enable popup".
 
 <a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
 
