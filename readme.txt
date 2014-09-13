@@ -28,9 +28,6 @@ The popup time can be controlled from your wordpress admin panel.  You can also 
 * Add bullets to feature your benefits to convince them to sign up
 * Page content is masked behind popup to spotlight your offer
 
-###Quick Start Guide
-
-* [Popup Express quick start guide at thinklandingpages.com] (http://www.thinklandingpages.com/popup-express-plugin-quick-start-guide/)
 
 ###Upgrade
 <a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
