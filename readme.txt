@@ -46,6 +46,9 @@ The popup time can be controlled from your wordpress admin panel.  You can also 
 
 No.  The plugin does the programming and design.
 
+= Is there a mask behind the popup? = 
+Yes.
+
 
 == Screenshots ==
 
