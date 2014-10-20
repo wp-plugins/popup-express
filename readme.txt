@@ -28,6 +28,8 @@ The popup time can be controlled from your wordpress admin panel.  You can also 
 * Add bullets to feature your benefits to convince them to sign up
 * Page content is masked behind popup to spotlight your offer
 
+A popup lightbox can be a great way to grow your email list.  Try it today.
+
 
 ###Upgrade
 <a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
