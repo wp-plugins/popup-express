@@ -51,6 +51,9 @@ No.  The plugin does the programming and design.
 = Is there a mask behind the popup? = 
 Yes.
 
+= Can I use Aweber, MailChimp, or other Email Management companies with the upgrade? =
+Yes.
+
 
 == Screenshots ==
 
