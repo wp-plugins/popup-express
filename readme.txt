@@ -12,7 +12,7 @@ Easily create a popup for your Wordpress site.
 
 == Description ==
 
-Easily create a popup lightbox with an email form for your Wordpress site.  Your popup form will appear in front of your content to make an offer to your visitors to signup for your email list.  Popup forms are one of the best way to get more subscribers.  The background is grayed out will the popup is displayed.  Your visitor can then choose to signup through the popup form or close the popup.
+Easily create a popup lightbox with an email form for your Wordpress site.  Your popup form will appear in front of your content to make an offer to your visitors to signup for your email list.  Popup forms are one of the best way to get more subscribers.  The background is grayed out while the popup is displayed.  Your visitor can then choose to signup through the popup form or close the popup.
 
 The popup content can be easily edited by making changes on a form.  There is a an editable field for each piece of content on the popup.  You don't have to do any coding to make the popup look good.
 
@@ -23,9 +23,9 @@ The popup time can be controlled from your wordpress admin panel.  You can also 
 ###What you get when you use the Popup Express plugin
 
 * Popup Lightbox to collect emails
-* Customize headline to grab the attention of your audience
-* Use a sub-headline to clarify and keep them reading
-* Add bullets to feature your benefits to convince them to sign up
+* Customize the popup headline to grab the attention of your audience
+* Use a sub-headline in your popup to clarify and keep them reading
+* Add bullets to feature your benefits on your popup to convince them to sign up
 * Page content is masked behind popup to spotlight your offer
 
 A popup lightbox can be a great way to grow your email list.  Try it today.
@@ -44,15 +44,21 @@ A popup lightbox can be a great way to grow your email list.  Try it today.
 
 == Frequently Asked Questions ==
 
-= Do I have to know how to program or design? =
+= Do I have to know how to program or design to use the popup? =
 
-No.  The plugin does the programming and design.
+No.  The popup plugin does the programming and design.
 
 = Is there a mask behind the popup? = 
-Yes.
+Yes, there is a mask behind the popup.
 
-= Can I use Aweber, MailChimp, or other Email Management companies with the upgrade? =
-Yes.
+= Can I use Aweber, MailChimp, or other Email Management companies with the popup plugin upgrade? =
+Yes, you can use Aweber, MailChimp, or other Email Management companies with the popup plugin upgrade
+
+= Can the visitor close the popup without signing up? =
+Yes, the popup has a close button.
+
+= Can the visitor click off of the popup to close the popup? =
+No, the popup will only close when the close button is clicked.
 
 
 == Screenshots ==
