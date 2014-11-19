@@ -30,6 +30,8 @@ The popup time can be controlled from your wordpress admin panel.  You can also 
 
 A popup lightbox can be a great way to grow your email list.  Try it today.
 
+The popup lightbox is not like the harsh new window popup or alert.  The popup lightbox is elegant.  It projects an image of quality to your visitors.
+
 
 ###Upgrade
 <a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
