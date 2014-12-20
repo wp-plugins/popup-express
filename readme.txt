@@ -32,7 +32,9 @@ A popup lightbox can be a great way to grow your email list.  Try it today.
 
 The popup lightbox is not like the harsh new window popup or alert.  The popup lightbox is elegant.  It projects an image of quality to your visitors.
 
+There is an ongoing debate about whether you should use popup lightboxes on your website to collect emails.  Some contend that the popup ruins the user experience and refuse to stay on sites that use a popup lightbox.  But the data shows that popup lightboxes are very effective in building an email list.  Many sites report a 10% to 30% gain in signups by using a popup lightbox.
 
+Don't let others, that probably have never run a real web business, tell you whether you should put a popup lightbox on your site.  Instead, try the Popup Express plugin for yourself and see if it helps your business.
 ###Upgrade
 <a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
 
