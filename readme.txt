@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: custom popup, fancy box, fancy popup, jquery popup, lightbox, lightbox popup, pop-up, popup, popup ads, popup advertising, popup block, popup box, popup jquery, popup message, automatic popup, unblockable, popup message, popup window, popups,aweber, constant contact, dashboard, email, full page popup, full screen pop, full screen popup, getresponse, icontact, mailchimp, onclick popup, optin, optin popup,
 Requires at least: 3.0
-Tested up to: 3.8.1
+Tested up to: 4.0
 Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,6 +35,11 @@ The popup lightbox is not like the harsh new window popup or alert.  The popup l
 There is an ongoing debate about whether you should use popup lightboxes on your website to collect emails.  Some contend that the popup ruins the user experience and refuse to stay on sites that use a popup lightbox.  But the data shows that popup lightboxes are very effective in building an email list.  Many sites report a 10% to 30% gain in signups by using a popup lightbox.
 
 Don't let others, that probably have never run a real web business, tell you whether you should put a popup lightbox on your site.  Instead, try the Popup Express plugin for yourself and see if it helps your business.
+
+Popup Intent Exit Pop
+
+The pro version of the Popup Express plugin has state of the art software that determines when a user intends on exiting your site and pops a popup at the optimal time to capture the user's attention.  It doesn't use the back button to pop the popup.  The strategy of popping a popup when the user hits the back button is not near as effective as popping the popup before the user hits the back button, but has the intention of leaving.
+
 ###Upgrade
 <a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
 
@@ -63,6 +68,9 @@ Yes, the popup has a close button.
 
 = Can the visitor click off of the popup to close the popup? =
 No, the popup will only close when the close button is clicked.
+
+= Does the Popup Express plugin have an exit pop? = 
+The pro version has an exit intent pop.  It determines the user's intent on exiting the page and pops the popup at just the right time.
 
 
 == Screenshots ==
