@@ -36,6 +36,19 @@ There is an ongoing debate about whether you should use popup lightboxes on your
 
 Don't let others, that probably have never run a real web business, tell you whether you should put a popup lightbox on your site.  Instead, try the Popup Express plugin for yourself and see if it helps your business.
 
+###What you get when you upgrade to Popup Express Pro
+
+* All of the features in the the basic Popup Express version
+* Exit intent popup to pop the lightbox at the optimal time
+* Use Aweber, Mailchimp, or any custom Url on your popup lightbox to submit the subscriber to your list
+* Show the popup lightbox on your post
+* Show the popup lightbox on your pages
+* Show the popup lightbox on your homepage
+* Show the popup lightbox on your category pages
+* No designing required to make your popup lightbox look good
+* No html coding required for your popup lightbox to work
+* Set the time interval for how often you want your user's to see the popup lightbox
+
 Popup Intent Exit Pop
 
 The pro version of the Popup Express plugin has state of the art software that determines when a user intends on exiting your site and pops a popup at the optimal time to capture the user's attention.  It doesn't use the back button to pop the popup.  The strategy of popping a popup when the user hits the back button is not near as effective as popping the popup before the user hits the back button, but has the intention of leaving.
