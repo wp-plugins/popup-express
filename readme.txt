@@ -88,7 +88,7 @@ The pro version has an exit intent pop.  It determines the user's intent on exit
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/popup-express-plugin-quick-start-guide/)
+[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/special/popup-express-quick-start/)
 
 
 == Changelog ==
