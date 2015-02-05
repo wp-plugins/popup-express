@@ -82,13 +82,19 @@ Yes, the popup has a close button.
 = Can the visitor click off of the popup to close the popup? =
 No, the popup will only close when the close button is clicked.
 
-= Does the Popup Express plugin have an exit pop? = 
-The pro version has an exit intent pop.  It determines the user's intent on exiting the page and pops the popup at just the right time.
+= Does the Popup Express plugin have an exit popup? = 
+The pro version has an exit intent popup.  It determines the user's intent on exiting the page and pops the popup at just the right time.
+
+= Does the Popup Express plugin have an automatic popup feature? =
+Yes, Popup Express has an automatic popup feature.
+
+= Can I set a custom time interval for the automatic popup? =
+Yes, you can set a custom time interval for the automatic popup.
 
 
 == Screenshots ==
 
-[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/special/popup-express-quick-start/)
+[See screenshots at thinklandingpages.com] (http://www.thinklandingpages.com/popup-express-quick-start/)
 
 
 == Changelog ==
