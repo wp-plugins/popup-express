@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: custom popup, fancy box, fancy popup, jquery popup, lightbox, lightbox popup, pop-up, popup, popup ads, popup advertising, popup block, popup box, popup jquery, popup message, automatic popup, unblockable, popup message, popup window, popups,aweber, constant contact, dashboard, email, full page popup, full screen pop, full screen popup, getresponse, icontact, mailchimp, onclick popup, optin, optin popup,
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
