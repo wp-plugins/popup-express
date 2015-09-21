@@ -3,7 +3,7 @@ Contributors: jeffbullins
 Donate link: http://www.thinklandingpages.com
 Tags: custom popup, fancy box, fancy popup, jquery popup, lightbox, lightbox popup, pop-up, popup, popup ads, popup advertising, popup block, popup box, popup jquery, popup message, automatic popup, unblockable, popup message, popup window, popups,aweber, constant contact, dashboard, email, full page popup, full screen pop, full screen popup, getresponse, icontact, mailchimp, onclick popup, optin, optin popup,
 Requires at least: 3.0
-Tested up to: 4.1
+Tested up to: 4.1.7
 Stable tag: 1.01
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -53,6 +53,8 @@ Popup Intent Exit Pop
 
 The pro version of the Popup Express plugin has state of the art software that determines when a user intends on exiting your site and pops a popup at the optimal time to capture the user's attention.  It doesn't use the back button to pop the popup.  The strategy of popping a popup when the user hits the back button is not near as effective as popping the popup before the user hits the back button, but has the intention of leaving.
 
+Popup Express Pro uses two technologies to make your popup pop at the right time.  First, Popup Express uses a script that tracks the speed of the user's mouse.  When a speed is detected that indicates the user may be intenting to leave the page, the popup displays.  Second, Popup Express Pro uses page area detection to determine when a user is about to press the back button, and pops the popup to present your offer.
+
 ###Upgrade
 <a href="http://www.thinklandingpages.com/landingpage/how-to-get-a-double-digit-increase-in-conversions/">Upgrade to Popup Express Pro</a>
 
@@ -90,6 +92,9 @@ Yes, Popup Express has an automatic popup feature.
 
 = Can I set a custom time interval for the automatic popup? =
 Yes, you can set a custom time interval for the automatic popup.
+
+= Can I collect emails with the popup express plugin? =
+Yes, you can collect email address.
 
 
 == Screenshots ==
